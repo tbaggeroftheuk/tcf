@@ -6,7 +6,7 @@ When during development of such game engine I found out python is crap at bit sh
 
 Hope you enjoy :)
 
-BTW you can use this format in other projects, just grab [Open file](./Code/tcf.h) [Open file](./Code/tcf.c)
+BTW you can use this format in other projects, just grab [TCF.h](./Code/tcf.h) [TCF.c](./Code/tcf.c)
 and dump those into your project folder to use them
 
 
